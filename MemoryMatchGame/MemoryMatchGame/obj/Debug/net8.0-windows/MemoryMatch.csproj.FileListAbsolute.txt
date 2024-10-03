@@ -1,0 +1,16 @@
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.Form1.resources
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.csproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\bin\Debug\net8.0-windows\MemoryMatch.exe
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\bin\Debug\net8.0-windows\MemoryMatch.deps.json
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\bin\Debug\net8.0-windows\MemoryMatch.runtimeconfig.json
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\bin\Debug\net8.0-windows\MemoryMatch.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\bin\Debug\net8.0-windows\MemoryMatch.pdb
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\refint\MemoryMatch.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.pdb
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\MemoryMatch.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\MemoryMatch\MemoryMatch\obj\Debug\net8.0-windows\ref\MemoryMatch.dll
